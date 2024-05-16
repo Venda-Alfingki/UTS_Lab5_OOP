@@ -5,4 +5,5 @@ hasil output nomor 2:
 hasil output nomor 3:
  ![alt text](https://github.com/Venda-Alfingki/UTS_Lab5_OOP/blob/main/output%203.jpeg?raw=true)
 
-![alt text](?raw=true)
+hasil output no 4:
+![alt text](https://github.com/Venda-Alfingki/UTS_Lab5_OOP/blob/main/output%204.jpeg?raw=true)
