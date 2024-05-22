@@ -1,4 +1,6 @@
 # UTS_Lab5_OOP
+Berikut hasil outputnya:
+
 hasil output nomor 2:
 ![alt text](https://github.com/Venda-Alfingki/UTS_Lab5_OOP/blob/main/output%202.jpeg?raw=true)
 
